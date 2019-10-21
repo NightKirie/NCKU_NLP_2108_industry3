@@ -1,5 +1,5 @@
 Pillow==5.1.0
-Flask==0.12.2
+Flask==1.0
 gunicorn==19.6.0
 line-bot-sdk==1.5.0
 imgurpython==1.1.7
